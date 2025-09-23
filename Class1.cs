@@ -4,6 +4,6 @@ public class Class1
 {
 	public Class1()
 	{
-		// Hello!
+		Console.WriteLine("Hello World, Welcome to my Github Repository Project!");
 	}
 }
