@@ -8,5 +8,8 @@ namespace GithubRepo
 		public List<string> Authors { get; set; }
 
 		public DateTime PublicationDate { get; set; }
+
+		public string test { get; set; }
 	}
+
 }
